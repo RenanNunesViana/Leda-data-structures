@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-10-26T12:18:15.770-0300</date>
+  <logger>RENAN NUNES VIANA</logger>
+  <level>FINE</level>
+  <message>File 118210164-RENAN NUNES VIANA.zip was received. It was sent by RENAN NUNES VIANA from IP 192.168.25.62 at 26-10-2019 12*18*15</message>
+</record>
